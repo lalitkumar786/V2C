@@ -182,11 +182,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\V2CSolutions\\V2CSolutions\\V2CSolutionsDAL\\V2CSolutionsDAL.csproj",
-      "projectName": "V2CSolutionsDAL",
-      "projectPath": "D:\\V2CSolutions\\V2CSolutions\\V2CSolutionsDAL\\V2CSolutionsDAL.csproj",
+      "projectUniqueName": "D:\\V2CSolutions\\V2CSolutions\\V2CModal\\V2CModal.csproj",
+      "projectName": "V2CModal",
+      "projectPath": "D:\\V2CSolutions\\V2CSolutions\\V2CModal\\V2CModal.csproj",
       "packagesPath": "C:\\Users\\Ram\\.nuget\\packages\\",
-      "outputPath": "D:\\V2CSolutions\\V2CSolutions\\V2CSolutionsDAL\\obj\\",
+      "outputPath": "D:\\V2CSolutions\\V2CSolutions\\V2CModal\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
