@@ -1,0 +1,9 @@
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\bin\Debug\netcoreapp2.1\V2CSolutionsDAL.deps.json
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\bin\Debug\netcoreapp2.1\V2CSolutionsDAL.dll
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.csprojAssemblyReference.cache
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.csproj.CoreCompileInputs.cache
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.AssemblyInfoInputs.cache
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.AssemblyInfo.cs
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\bin\Debug\netcoreapp2.1\V2CSolutionsDAL.pdb
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.dll
+D:\V2CSolutions\V2CSolutions\V2CSolutionsDAL\obj\Debug\netcoreapp2.1\V2CSolutionsDAL.pdb
